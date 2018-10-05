@@ -14,6 +14,6 @@ First put your _'Javscript Examples'_ folder inside a "Parent Folder".  Then man
 
 ![2](https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/1.%20Before%20Scripts.png "2")
 
-![3]https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/2.%20After%20Scripts.png "3")
+![3](https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/2.%20After%20Scripts.png "3")
 
 ![4](https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/3.%20Inside%20Quiver.png "4")
