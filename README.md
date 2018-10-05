@@ -7,12 +7,13 @@ Assumes you have a folder, let's call it 'Javscript Examples' that has inside it
 
 First put your _'Javscript Examples'_ folder inside a "Parent Folder".  Then manually run these scripts against that parent folder, 1 at a time.
 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
-https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/0.%20Applescripts.png
+![1](https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/0.%20Applescripts.png "1")
 
-https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/1.%20Before%20Scripts.png
+![2](https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/1.%20Before%20Scripts.png "2")
 
-https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/2.%20After%20Scripts.png
+![3]https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/2.%20After%20Scripts.png "3")
 
-https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/3.%20Inside%20Quiver.png
+![4](https://github.com/asktami/applescripts-rename-JS-in-subfolders/blob/master/Screenshots/3.%20Inside%20Quiver.png "4")
